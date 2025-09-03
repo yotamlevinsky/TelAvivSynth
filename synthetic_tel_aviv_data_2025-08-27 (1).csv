@@ -1,0 +1,1001 @@
+id,name,age,gender,neighborhood,income,consuming_sweet_drinks
+1,Talia Shapiro,23,Female,Shapira,4837,Low
+2,Hadar Avraham,21,Female,Ajami,4325,High
+3,Sarah Weiss,36,Female,Neve Tzedek,10174,Moderate
+4,Neta David,22,Female,Shapira,4262,High
+5,Daniel Weiss,21,Male,Ajami,5662,High
+6,Liat Goldberg,22,Female,Shapira,4098,High
+7,Liat Goldberg,25,Female,Ajami,5041,Low
+8,Leah Goldberg,39,Female,Shapira,4442,High
+9,Talia Dahan,33,Female,Neve Tzedek,9774,Moderate
+10,David Mizrahi,29,Male,Neve Tzedek,8355,Low
+11,Adam Weiss,27,Male,Neve Tzedek,9378,Low
+12,Hadar Biton,23,Female,Shapira,5206,High
+13,Yonatan Haddad,26,Male,Neve Tzedek,8615,Low
+14,Hila Mizrahi,24,Female,Shapira,4477,High
+15,Michal Ohayon,37,Female,Ajami,5397,High
+16,Sarah Katz,22,Female,Ajami,5448,Low
+17,Neta Goldberg,33,Female,Ajami,4583,High
+18,Maya Dahan,21,Female,Ajami,4844,Low
+19,Shani Ohayon,21,Female,Ajami,4238,Low
+20,Uri Cohen,46,Male,Neve Tzedek,12997,Low
+21,Adam Friedman,20,Male,Ajami,4284,High
+22,Rotem Weiss,21,Female,Shapira,5160,Low
+23,Omer Weiss,39,Male,Ajami,5115,High
+24,Tamar Katz,27,Female,Ajami,5734,Low
+25,Noam Azoulay,35,Male,Ajami,4100,High
+26,Michal Levi,33,Female,Ajami,4289,High
+27,Ben Peretz,27,Male,Neve Tzedek,12376,Low
+28,Rotem Haddad,21,Female,Shapira,5160,Low
+29,Hadar Mizrahi,23,Female,Shapira,5145,High
+30,Esther David,27,Female,Shapira,4833,High
+31,Ariel Shapiro,20,Male,Ajami,5371,High
+32,Yosef Katz,26,Male,Ajami,4129,High
+33,Moshe Segal,37,Male,Ajami,4335,High
+34,Yonatan Bar,25,Male,Neve Tzedek,9832,Low
+35,Eli Katz,23,Male,Shapira,4996,High
+36,Omer Peretz,40,Male,Shapira,4354,High
+37,Leah Levi,28,Female,Ajami,5035,Low
+38,Roni Mizrahi,28,Female,Neve Tzedek,9824,Moderate
+39,Daniel Gabai,23,Male,Shapira,4763,Low
+40,Adam David,32,Male,Ajami,5454,Low
+41,Tomer Avraham,46,Male,Shapira,4600,High
+42,Adam Shapiro,25,Male,Shapira,5229,Low
+43,Shani Peretz,38,Female,Ajami,4124,High
+44,Yael Goldberg,27,Female,Shapira,4340,Low
+45,Avigail Shapiro,25,Female,Neve Tzedek,9021,Moderate
+46,Ben Cohen,33,Male,Shapira,5772,High
+47,Noam Cohen,28,Male,Neve Tzedek,11431,Low
+48,Gal Goldberg,21,Male,Ajami,4796,High
+49,Hila Mizrahi,26,Female,Ajami,4123,Low
+50,Avigail David,22,Female,Ajami,5696,High
+51,Matan Weiss,23,Male,Ajami,5734,High
+52,Shira Haddad,20,Female,Ajami,5009,High
+53,Moshe Bar,27,Male,Ajami,5658,High
+54,Michal Azoulay,38,Female,Neve Tzedek,8375,Low
+55,Ben Shapiro,20,Male,Ajami,5109,High
+56,Noa Levi,32,Female,Neve Tzedek,11221,Low
+57,Omer Weiss,21,Male,Ajami,4369,High
+58,Ariel Haddad,25,Male,Ajami,5798,High
+59,Maya Haddad,36,Female,Shapira,5192,High
+60,Dana Peretz,34,Female,Shapira,5005,Low
+61,Noam Avraham,26,Male,Shapira,4142,Low
+62,Michal Cohen,26,Female,Neve Tzedek,10279,Low
+63,Talia Cohen,25,Female,Neve Tzedek,8818,Low
+64,Lior Mizrahi,28,Male,Neve Tzedek,11476,Low
+65,Sarah Avraham,26,Female,Shapira,4701,High
+66,Hila Bar,39,Female,Ajami,5895,High
+67,Shira Bar,26,Female,Neve Tzedek,11931,Low
+68,Leah David,50,Female,Ajami,5211,High
+69,Eitan Friedman,39,Male,Ajami,4803,High
+70,Talia Rubin,20,Female,Ajami,4709,High
+71,Michal Dahan,34,Female,Ajami,5125,High
+72,Tomer Mizrahi,21,Male,Shapira,4550,High
+73,Ariel Azoulay,27,Male,Neve Tzedek,10302,Moderate
+74,Ido Friedman,28,Male,Shapira,5891,Low
+75,Ben Gabai,32,Male,Neve Tzedek,12135,Moderate
+76,Noam Peretz,26,Male,Ajami,4814,Low
+77,Shani Segal,27,Female,Neve Tzedek,11473,Low
+78,Sarah Gabai,25,Female,Neve Tzedek,10331,Low
+79,Eitan David,34,Male,Ajami,4905,Low
+80,Yosef Friedman,41,Male,Shapira,4732,High
+81,Dana Weiss,22,Female,Shapira,4028,High
+82,Matan Ohayon,31,Male,Ajami,5568,High
+83,Shira Ohayon,24,Female,Ajami,4908,High
+84,Itzhak Mizrahi,34,Male,Shapira,4624,High
+85,Hila Bar,27,Female,Ajami,5584,High
+86,Noa Avraham,32,Female,Ajami,4086,High
+87,Liat Peretz,30,Female,Ajami,4780,High
+88,Liat Mizrahi,40,Female,Neve Tzedek,12409,Moderate
+89,Omer Dahan,22,Male,Ajami,4417,High
+90,Avigail Friedman,38,Female,Ajami,4549,Low
+91,Hila Rubin,21,Female,Shapira,4967,High
+92,Uri Mizrahi,21,Male,Ajami,4747,High
+93,Omer David,46,Male,Neve Tzedek,11144,Low
+94,Michal Avraham,39,Female,Shapira,5119,High
+95,Shira Katz,44,Female,Neve Tzedek,12786,Low
+96,Talia Peretz,45,Female,Neve Tzedek,10929,Low
+97,Hadar Rubin,25,Female,Ajami,4665,High
+98,Yonatan Segal,28,Male,Neve Tzedek,9363,Low
+99,Rotem Goldberg,46,Female,Neve Tzedek,11536,Low
+100,Hila Gabai,33,Female,Neve Tzedek,10880,Low
+101,Maya Bar,40,Female,Shapira,4156,Low
+102,Daniel Azoulay,35,Male,Ajami,4292,Low
+103,Maya Friedman,29,Female,Neve Tzedek,11824,Low
+104,Maya Segal,34,Female,Shapira,4907,Low
+105,Omer Cohen,25,Male,Shapira,4621,High
+106,Shira Goldberg,21,Female,Ajami,5844,High
+107,Hila Haddad,30,Female,Neve Tzedek,12006,Moderate
+108,Eli Azoulay,53,Male,Neve Tzedek,9449,Moderate
+109,Rotem Friedman,45,Female,Neve Tzedek,8449,Low
+110,Tomer Azoulay,48,Male,Neve Tzedek,10722,Low
+111,Avigail Mizrahi,20,Female,Ajami,5635,Low
+112,Avraham Shapiro,27,Male,Shapira,4100,High
+113,Ido Rubin,28,Male,Neve Tzedek,11381,Low
+114,Neta Goldberg,26,Female,Neve Tzedek,8128,Low
+115,Maya Segal,36,Female,Ajami,5571,High
+116,Hadar Weiss,22,Female,Shapira,5824,High
+117,Adi Weiss,44,Female,Ajami,4324,High
+118,Adam Shapiro,25,Male,Ajami,5891,Low
+119,Avraham Dahan,23,Male,Ajami,5860,High
+120,Tomer Gabai,40,Male,Neve Tzedek,10171,Moderate
+121,Eitan Mizrahi,36,Male,Shapira,4188,High
+122,Sarah Segal,47,Female,Neve Tzedek,12661,Moderate
+123,Tamar Biton,27,Female,Neve Tzedek,12242,Moderate
+124,Avraham Goldberg,34,Male,Neve Tzedek,10666,Low
+125,Adam Bar,28,Male,Neve Tzedek,12412,Moderate
+126,Roni Ohayon,24,Female,Shapira,4981,Low
+127,Leah Levi,29,Female,Neve Tzedek,12046,Low
+128,Liat David,24,Female,Ajami,4872,Low
+129,Hila Haddad,40,Female,Neve Tzedek,8298,Low
+130,Avigail Azoulay,21,Female,Shapira,4747,High
+131,Shira Levi,25,Female,Neve Tzedek,9274,Moderate
+132,Gal Mizrahi,41,Male,Neve Tzedek,8738,Moderate
+133,Ariel Azoulay,37,Male,Neve Tzedek,12479,Low
+134,Adi David,22,Female,Shapira,5024,High
+135,Adam Gabai,29,Male,Ajami,5658,High
+136,Sarah Friedman,43,Female,Neve Tzedek,12751,Moderate
+137,Shira Haddad,35,Female,Shapira,4160,High
+138,Ido Weiss,31,Male,Ajami,4755,High
+139,Esther Goldberg,20,Female,Shapira,4428,Low
+140,Shira Levi,25,Female,Neve Tzedek,12348,Low
+141,David Haddad,54,Male,Neve Tzedek,10903,Low
+142,Dana Haddad,23,Female,Ajami,5445,High
+143,Eitan Shapiro,33,Male,Shapira,5364,High
+144,Itzhak Weiss,22,Male,Shapira,5117,Low
+145,Maya Cohen,27,Female,Shapira,4018,High
+146,Ido Bar,22,Male,Shapira,4280,Low
+147,Avigail Bar,21,Female,Shapira,4219,High
+148,Tomer Azoulay,31,Male,Shapira,4774,High
+149,Tamar Katz,28,Female,Ajami,4045,High
+150,Noam Azoulay,39,Male,Ajami,5923,Low
+151,Rotem Bar,20,Female,Shapira,5644,High
+152,Shani Mizrahi,21,Female,Shapira,4402,High
+153,Liat Biton,34,Female,Shapira,5328,High
+154,Tamar Shapiro,25,Female,Neve Tzedek,12242,Low
+155,Matan Haddad,27,Male,Neve Tzedek,11598,Low
+156,Neta Avraham,25,Female,Ajami,4090,Low
+157,Adi Ohayon,20,Female,Ajami,5861,High
+158,Rotem Haddad,38,Female,Ajami,4123,High
+159,Noa Peretz,31,Female,Neve Tzedek,12307,Low
+160,Yael David,39,Female,Shapira,4376,Low
+161,Michal David,29,Female,Neve Tzedek,12059,Low
+162,Tamar Levi,34,Female,Shapira,5068,Low
+163,Sarah Katz,22,Female,Ajami,5331,High
+164,Gal Azoulay,31,Male,Shapira,5721,High
+165,Talia David,30,Female,Neve Tzedek,11646,Low
+166,Yael Ohayon,25,Female,Neve Tzedek,8308,Moderate
+167,Leah Gabai,26,Female,Ajami,5889,Low
+168,Ben Ohayon,29,Male,Neve Tzedek,11785,Low
+169,Roni Peretz,31,Female,Ajami,5949,High
+170,David Peretz,43,Male,Neve Tzedek,11083,Low
+171,Neta Cohen,24,Female,Ajami,5553,High
+172,Yosef Azoulay,33,Male,Shapira,4915,High
+173,Lior Goldberg,41,Male,Shapira,5427,High
+174,David Azoulay,43,Male,Ajami,5361,High
+175,Noa Avraham,29,Female,Shapira,5410,High
+176,Tamar Biton,27,Female,Neve Tzedek,11539,Moderate
+177,Noa Friedman,29,Female,Neve Tzedek,9085,Moderate
+178,Itzhak Biton,35,Male,Neve Tzedek,9592,Moderate
+179,Noa David,50,Female,Shapira,4960,High
+180,Neta Dahan,31,Female,Neve Tzedek,10146,Moderate
+181,Roni Segal,29,Female,Neve Tzedek,11072,Moderate
+182,Ariel Katz,33,Male,Neve Tzedek,10574,Low
+183,Noam Bar,21,Male,Shapira,4340,High
+184,Lior Cohen,26,Male,Neve Tzedek,9333,Low
+185,Lior Cohen,20,Male,Shapira,5243,High
+186,Dana Mizrahi,32,Female,Ajami,5885,Low
+187,Noa Haddad,29,Female,Neve Tzedek,12657,Low
+188,Hadar Levi,28,Female,Shapira,4680,Low
+189,Avigail Katz,22,Female,Ajami,5052,High
+190,Maya Azoulay,22,Female,Ajami,4873,High
+191,Yosef Friedman,26,Male,Shapira,4829,High
+192,Eitan Bar,35,Male,Ajami,4148,Low
+193,Neta Levi,29,Female,Shapira,4290,High
+194,Shani Cohen,24,Female,Ajami,4948,High
+195,Dana Biton,46,Female,Ajami,5743,High
+196,David Dahan,49,Male,Neve Tzedek,10678,Low
+197,Liat Katz,27,Female,Ajami,5944,Low
+198,Uri Katz,50,Male,Shapira,4365,High
+199,Tamar Cohen,32,Female,Neve Tzedek,9592,Moderate
+200,Shira Avraham,39,Female,Neve Tzedek,11183,Moderate
+201,Noa Segal,22,Female,Shapira,4695,High
+202,Adam Gabai,22,Male,Ajami,5422,High
+203,Matan Shapiro,29,Male,Neve Tzedek,9570,Low
+204,Tamar Shapiro,25,Female,Neve Tzedek,8246,Moderate
+205,Omer Gabai,25,Male,Ajami,4436,High
+206,Eitan Azoulay,43,Male,Shapira,5492,High
+207,Omer Biton,30,Male,Neve Tzedek,12878,Low
+208,Roni Weiss,25,Female,Ajami,5624,Low
+209,Talia Rubin,25,Female,Shapira,5221,High
+210,David Biton,38,Male,Neve Tzedek,12539,Low
+211,Daniel Katz,27,Male,Ajami,4401,Low
+212,Adam Segal,20,Male,Ajami,5846,High
+213,Eitan Azoulay,27,Male,Shapira,4802,High
+214,Shani Weiss,21,Female,Ajami,4512,Low
+215,Yosef Haddad,21,Male,Ajami,5830,High
+216,Ariel Segal,30,Male,Shapira,4259,Low
+217,Yosef Levi,20,Male,Shapira,5696,High
+218,Ariel Weiss,49,Male,Neve Tzedek,12042,Low
+219,Ben Avraham,46,Male,Shapira,4029,High
+220,Eitan Cohen,36,Male,Neve Tzedek,9960,Low
+221,Yosef Friedman,20,Male,Shapira,5218,High
+222,Leah David,31,Female,Shapira,5399,High
+223,Avraham Avraham,21,Male,Ajami,4478,Low
+224,Esther Levi,32,Female,Neve Tzedek,11125,Low
+225,Avigail Friedman,36,Female,Neve Tzedek,11485,Low
+226,Tomer Dahan,36,Male,Shapira,4935,High
+227,Uri Cohen,46,Male,Neve Tzedek,12996,Low
+228,Noam Levi,25,Male,Shapira,4322,Low
+229,Tamar Peretz,32,Female,Shapira,5381,Low
+230,Shira Katz,45,Female,Shapira,5254,High
+231,Eli Segal,28,Male,Ajami,5694,High
+232,Shani Shapiro,35,Female,Ajami,4487,High
+233,Uri Goldberg,33,Male,Ajami,4226,High
+234,Rotem Gabai,42,Female,Ajami,4059,High
+235,Yosef Levi,26,Male,Neve Tzedek,9875,Low
+236,Hila Dahan,36,Female,Ajami,5045,Low
+237,Matan Biton,41,Male,Ajami,4895,High
+238,Hila Segal,33,Female,Shapira,4062,Low
+239,Hila Biton,26,Female,Neve Tzedek,10024,Moderate
+240,Hadar Ohayon,20,Female,Shapira,4887,High
+241,Matan Azoulay,37,Male,Ajami,5921,High
+242,Tomer Dahan,21,Male,Ajami,5595,High
+243,Yonatan Ohayon,28,Male,Ajami,4476,High
+244,Yonatan Haddad,47,Male,Shapira,4804,Low
+245,Matan Goldberg,39,Male,Shapira,4362,High
+246,Adam Katz,25,Male,Shapira,4863,Low
+247,Yonatan Cohen,33,Male,Neve Tzedek,9929,Moderate
+248,Adam Friedman,43,Male,Shapira,5363,High
+249,Daniel Friedman,24,Male,Shapira,4924,High
+250,Roni Katz,43,Female,Shapira,4841,High
+251,Michal Dahan,25,Female,Ajami,5880,Low
+252,Adam Avraham,32,Male,Ajami,4509,Low
+253,Esther Shapiro,24,Female,Ajami,5772,High
+254,Tomer Rubin,26,Male,Neve Tzedek,10369,Low
+255,Eli Azoulay,30,Male,Ajami,5419,High
+256,Michal Cohen,23,Female,Ajami,4912,Low
+257,Avraham David,37,Male,Ajami,4307,High
+258,Eitan Katz,29,Male,Neve Tzedek,10944,Moderate
+259,Ido Azoulay,28,Male,Neve Tzedek,12759,Low
+260,Sarah Friedman,32,Female,Neve Tzedek,8979,Low
+261,Gal Segal,23,Male,Shapira,4095,High
+262,Sarah Peretz,28,Female,Ajami,5226,Low
+263,Ben Haddad,22,Male,Ajami,5244,Low
+264,Tomer Shapiro,21,Male,Shapira,4960,High
+265,Eli Shapiro,26,Male,Neve Tzedek,12425,Low
+266,Yonatan Friedman,25,Male,Shapira,5625,High
+267,Daniel Haddad,36,Male,Shapira,4609,High
+268,Adam Levi,48,Male,Ajami,4712,Low
+269,Rotem Goldberg,21,Female,Shapira,4142,High
+270,Tamar Dahan,42,Female,Shapira,4074,High
+271,Michal Dahan,25,Female,Shapira,4195,High
+272,Tomer Weiss,21,Male,Shapira,5025,Low
+273,Shira Friedman,25,Female,Neve Tzedek,8698,Low
+274,Neta Bar,35,Female,Neve Tzedek,9954,Moderate
+275,Tomer Bar,46,Male,Neve Tzedek,8205,Low
+276,Hila Katz,38,Female,Neve Tzedek,9505,Low
+277,Avraham Friedman,30,Male,Ajami,4783,High
+278,Maya Bar,20,Female,Ajami,5643,High
+279,David Goldberg,29,Male,Neve Tzedek,11128,Low
+280,Ido Rubin,23,Male,Ajami,5932,High
+281,Esther Ohayon,35,Female,Shapira,4601,High
+282,Daniel Avraham,38,Male,Ajami,4085,Low
+283,Lior Bar,32,Male,Ajami,4854,High
+284,Shani Cohen,40,Female,Neve Tzedek,8693,Low
+285,Noam Gabai,25,Male,Neve Tzedek,11890,Low
+286,Yonatan Friedman,21,Male,Ajami,4338,Low
+287,Sarah Ohayon,23,Female,Ajami,4725,Low
+288,Maya Gabai,26,Female,Neve Tzedek,11573,Moderate
+289,Eli Peretz,28,Male,Neve Tzedek,10915,Low
+290,Maya Biton,24,Female,Ajami,4734,Low
+291,Maya Cohen,30,Female,Ajami,4593,High
+292,Adam Avraham,33,Male,Ajami,4319,Low
+293,Shira Azoulay,38,Female,Shapira,4322,Low
+294,Adi Weiss,26,Female,Ajami,4823,High
+295,David Cohen,40,Male,Shapira,4586,High
+296,Dana Gabai,32,Female,Neve Tzedek,12278,Moderate
+297,Noam Levi,24,Male,Ajami,5389,High
+298,David Dahan,21,Male,Shapira,4670,High
+299,Michal Weiss,25,Female,Shapira,4120,High
+300,Adam Biton,32,Male,Shapira,4688,High
+301,Esther Katz,36,Female,Neve Tzedek,8511,Low
+302,Neta Segal,22,Female,Shapira,5993,High
+303,Michal Gabai,45,Female,Neve Tzedek,10307,Low
+304,Dana Goldberg,28,Female,Neve Tzedek,11971,Low
+305,Avigail Rubin,29,Female,Shapira,5941,High
+306,Omer Biton,43,Male,Ajami,5059,Low
+307,Moshe Avraham,28,Male,Neve Tzedek,9598,Moderate
+308,Omer Mizrahi,28,Male,Ajami,4582,Low
+309,Shira Gabai,40,Female,Neve Tzedek,9219,Low
+310,Ido Levi,25,Male,Neve Tzedek,9832,Low
+311,Noam Levi,25,Male,Neve Tzedek,11848,Low
+312,Rotem Levi,34,Female,Neve Tzedek,12501,Moderate
+313,Hadar Friedman,27,Female,Neve Tzedek,10094,Low
+314,Yael Bar,30,Female,Ajami,4666,High
+315,Roni Levi,27,Female,Shapira,5214,High
+316,Adi Shapiro,27,Female,Shapira,5646,High
+317,Matan Avraham,23,Male,Ajami,4271,High
+318,Shani Shapiro,32,Female,Shapira,5762,Low
+319,Matan Avraham,34,Male,Ajami,4342,Low
+320,Avraham Peretz,32,Male,Shapira,4921,Low
+321,Noam Biton,24,Male,Ajami,5881,High
+322,David Biton,28,Male,Shapira,4496,High
+323,Maya David,33,Female,Ajami,4064,High
+324,Rotem Weiss,36,Female,Ajami,5195,High
+325,Michal Goldberg,25,Female,Shapira,4666,Low
+326,Adam Mizrahi,24,Male,Ajami,4715,High
+327,Hadar Dahan,22,Female,Ajami,5539,High
+328,Esther Katz,45,Female,Neve Tzedek,10129,Low
+329,Yosef Peretz,35,Male,Shapira,4401,High
+330,Avigail Rubin,43,Female,Shapira,5357,High
+331,Adi Ohayon,44,Female,Ajami,4258,High
+332,Tamar Goldberg,27,Female,Ajami,4945,High
+333,Uri Biton,25,Male,Neve Tzedek,10346,Moderate
+334,Ariel Katz,22,Male,Shapira,4142,High
+335,Avigail Weiss,26,Female,Neve Tzedek,12431,Moderate
+336,Neta Haddad,53,Female,Shapira,4187,High
+337,Eli Mizrahi,21,Male,Ajami,4197,Low
+338,Leah Azoulay,46,Female,Neve Tzedek,9945,Moderate
+339,Ido David,26,Male,Neve Tzedek,12865,Moderate
+340,Matan Dahan,21,Male,Ajami,4476,Low
+341,Sarah Weiss,46,Female,Neve Tzedek,10951,Moderate
+342,Hila Shapiro,37,Female,Ajami,4412,Low
+343,Leah Katz,37,Female,Neve Tzedek,8329,Low
+344,Tomer Avraham,21,Male,Ajami,5821,Low
+345,Leah Biton,26,Female,Shapira,4316,Low
+346,Michal Rubin,30,Female,Ajami,5056,High
+347,Eli Ohayon,35,Male,Neve Tzedek,11898,Low
+348,Tomer Azoulay,36,Male,Shapira,4855,High
+349,Shani Biton,35,Female,Shapira,4576,High
+350,Yosef Mizrahi,22,Male,Ajami,4735,Low
+351,Omer Avraham,21,Male,Shapira,5731,Low
+352,Liat Shapiro,20,Female,Shapira,4091,High
+353,Daniel Segal,53,Male,Ajami,4323,High
+354,Liat Goldberg,31,Female,Ajami,4246,High
+355,Eitan David,36,Male,Neve Tzedek,11177,Low
+356,Gal Katz,23,Male,Ajami,4545,High
+357,David Ohayon,40,Male,Ajami,4710,Low
+358,Tomer Gabai,50,Male,Ajami,4370,High
+359,Avraham Goldberg,26,Male,Ajami,5190,High
+360,Lior Weiss,20,Male,Ajami,5026,High
+361,Matan Mizrahi,38,Male,Shapira,5096,High
+362,Roni Ohayon,30,Female,Neve Tzedek,10836,Moderate
+363,Noa Segal,29,Female,Shapira,4602,Low
+364,Yonatan Friedman,25,Male,Ajami,5087,High
+365,Liat Segal,23,Female,Shapira,5247,High
+366,Roni Ohayon,24,Female,Ajami,5307,High
+367,Talia Rubin,34,Female,Neve Tzedek,9091,Moderate
+368,Ariel Avraham,50,Male,Neve Tzedek,10928,Low
+369,Rotem David,27,Female,Ajami,4282,High
+370,Tamar Biton,23,Female,Shapira,5531,High
+371,Gal Levi,39,Male,Neve Tzedek,9553,Low
+372,Omer Peretz,27,Male,Shapira,4705,Low
+373,Lior Gabai,21,Male,Shapira,5283,Low
+374,Eitan David,26,Male,Neve Tzedek,9519,Low
+375,Yosef David,30,Male,Neve Tzedek,10813,Moderate
+376,Noam David,31,Male,Ajami,4146,High
+377,Esther Biton,24,Female,Ajami,4090,High
+378,Maya David,21,Female,Shapira,5511,High
+379,Roni Katz,43,Female,Neve Tzedek,11534,Low
+380,Omer Gabai,26,Male,Neve Tzedek,10909,Low
+381,Ariel Bar,51,Male,Ajami,4842,Low
+382,Itzhak Bar,20,Male,Shapira,4200,High
+383,Yael Azoulay,24,Female,Ajami,4506,Low
+384,Michal Friedman,29,Female,Neve Tzedek,9792,Moderate
+385,Adam Biton,43,Male,Neve Tzedek,10684,Low
+386,Esther Segal,40,Female,Neve Tzedek,11663,Low
+387,Tamar Cohen,22,Female,Shapira,4188,Low
+388,Noa Avraham,32,Female,Neve Tzedek,10032,Low
+389,Adam Dahan,47,Male,Shapira,4002,High
+390,Noam Gabai,31,Male,Shapira,5206,Low
+391,Neta Friedman,22,Female,Shapira,5805,High
+392,Avigail Biton,30,Female,Neve Tzedek,12829,Moderate
+393,Ben Katz,26,Male,Shapira,5897,High
+394,Maya Dahan,22,Female,Ajami,4868,High
+395,Hadar Dahan,27,Female,Shapira,5483,High
+396,Moshe Segal,30,Male,Ajami,5597,High
+397,Itzhak Rubin,23,Male,Ajami,4904,Low
+398,Sarah David,26,Female,Neve Tzedek,8471,Low
+399,Michal Katz,28,Female,Neve Tzedek,8627,Moderate
+400,Leah Avraham,32,Female,Neve Tzedek,8400,Low
+401,Michal Mizrahi,44,Female,Ajami,5674,High
+402,Dana Gabai,24,Female,Ajami,4508,High
+403,Hila Katz,34,Female,Neve Tzedek,9700,Low
+404,Roni Shapiro,26,Female,Shapira,5349,High
+405,Gal Mizrahi,20,Male,Ajami,5598,Low
+406,Lior Friedman,28,Male,Shapira,4715,High
+407,Tamar Rubin,37,Female,Neve Tzedek,8686,Low
+408,Lior Weiss,20,Male,Ajami,5275,Low
+409,Matan Goldberg,21,Male,Ajami,5731,High
+410,Matan Avraham,28,Male,Shapira,5865,High
+411,Maya Levi,26,Female,Shapira,4837,High
+412,Omer Cohen,23,Male,Ajami,5074,High
+413,Eli Cohen,44,Male,Neve Tzedek,9680,Low
+414,Shani Katz,30,Female,Neve Tzedek,11166,Low
+415,Moshe Haddad,24,Male,Shapira,5504,Low
+416,Yosef Ohayon,21,Male,Ajami,4010,High
+417,Leah Goldberg,21,Female,Ajami,4172,High
+418,Moshe Biton,44,Male,Ajami,4120,High
+419,Gal Cohen,35,Male,Ajami,4587,High
+420,Hila Mizrahi,29,Female,Neve Tzedek,12965,Low
+421,Ariel Rubin,32,Male,Neve Tzedek,11038,Low
+422,Ido Dahan,25,Male,Neve Tzedek,12311,Low
+423,Shani Katz,20,Female,Shapira,4238,High
+424,Noa Peretz,23,Female,Ajami,5828,High
+425,Sarah Bar,37,Female,Ajami,5403,Low
+426,Adi Gabai,21,Female,Ajami,5904,High
+427,Avigail Rubin,30,Female,Ajami,4923,Low
+428,Ariel Gabai,28,Male,Neve Tzedek,8251,Low
+429,Daniel Avraham,38,Male,Neve Tzedek,12408,Low
+430,Adi Cohen,25,Female,Neve Tzedek,11913,Low
+431,Noa Avraham,23,Female,Shapira,5773,High
+432,Daniel Mizrahi,20,Male,Shapira,4227,High
+433,Eli Azoulay,29,Male,Shapira,4614,High
+434,Dana Biton,26,Female,Ajami,4866,Low
+435,Eli Rubin,24,Male,Ajami,4258,High
+436,Sarah Cohen,24,Female,Ajami,5236,Low
+437,Leah Weiss,22,Female,Ajami,5882,High
+438,Sarah Biton,35,Female,Neve Tzedek,9164,Moderate
+439,Yonatan Ohayon,50,Male,Ajami,5010,High
+440,Omer Weiss,25,Male,Neve Tzedek,10408,Moderate
+441,Adi Biton,21,Female,Shapira,4260,High
+442,Leah Dahan,45,Female,Neve Tzedek,12357,Moderate
+443,Tamar Bar,21,Female,Ajami,4199,Low
+444,Matan Bar,46,Male,Ajami,5431,High
+445,Hila Avraham,21,Female,Shapira,4557,High
+446,Shira Mizrahi,42,Female,Shapira,4534,High
+447,Neta Mizrahi,20,Female,Ajami,4948,Low
+448,Roni Haddad,26,Female,Ajami,5376,High
+449,Talia Azoulay,41,Female,Ajami,5199,High
+450,Yonatan Mizrahi,45,Male,Ajami,4720,High
+451,Eli Azoulay,36,Male,Neve Tzedek,11569,Low
+452,Tomer Azoulay,35,Male,Ajami,5951,High
+453,Yosef Peretz,20,Male,Shapira,4256,High
+454,Ariel Bar,20,Male,Shapira,4616,High
+455,Matan Mizrahi,28,Male,Ajami,5659,Low
+456,Liat Rubin,21,Female,Shapira,5635,Low
+457,Ido Biton,20,Male,Ajami,4356,High
+458,Matan Gabai,25,Male,Neve Tzedek,12022,Low
+459,Rotem Katz,28,Female,Ajami,4345,High
+460,Neta Haddad,43,Female,Shapira,5353,Low
+461,Maya Cohen,39,Female,Shapira,5800,Low
+462,Ben Friedman,45,Male,Ajami,4414,High
+463,Adi David,27,Female,Ajami,4016,High
+464,Itzhak Levi,39,Male,Neve Tzedek,10953,Low
+465,Adam Goldberg,35,Male,Shapira,4667,High
+466,Avigail Cohen,40,Female,Neve Tzedek,8161,Low
+467,Roni Weiss,23,Female,Ajami,4578,High
+468,Noam Peretz,32,Male,Neve Tzedek,11882,Low
+469,Noam Bar,41,Male,Ajami,4470,High
+470,Avigail Bar,30,Female,Neve Tzedek,11786,Low
+471,Adi Azoulay,30,Female,Neve Tzedek,10198,Low
+472,Ido Segal,26,Male,Neve Tzedek,11758,Moderate
+473,Michal Haddad,24,Female,Shapira,4473,High
+474,Noa Weiss,25,Female,Neve Tzedek,12613,Low
+475,Shira Weiss,37,Female,Ajami,4282,High
+476,Esther Azoulay,23,Female,Ajami,5640,High
+477,Eitan Gabai,27,Male,Ajami,4993,High
+478,Yonatan Shapiro,21,Male,Shapira,5017,High
+479,Ben Segal,27,Male,Neve Tzedek,9522,Low
+480,Roni Mizrahi,46,Female,Ajami,4395,Low
+481,Liat Levi,29,Female,Neve Tzedek,11327,Low
+482,Noa Gabai,23,Female,Ajami,4187,Low
+483,Neta Mizrahi,38,Female,Ajami,4832,High
+484,Noam Bar,22,Male,Ajami,5889,High
+485,Tomer David,25,Male,Neve Tzedek,9732,Low
+486,Leah Dahan,35,Female,Ajami,4707,High
+487,Hila Gabai,21,Female,Ajami,5322,High
+488,Uri Gabai,31,Male,Neve Tzedek,8448,Low
+489,Uri Bar,24,Male,Ajami,5149,High
+490,Omer Haddad,35,Male,Neve Tzedek,9401,Moderate
+491,Esther Azoulay,44,Female,Shapira,5100,High
+492,Liat Friedman,38,Female,Neve Tzedek,12531,Low
+493,Itzhak Shapiro,37,Male,Shapira,5867,Low
+494,Avigail Friedman,21,Female,Shapira,5095,High
+495,Moshe Dahan,37,Male,Shapira,5147,Low
+496,Neta Weiss,22,Female,Shapira,5182,Low
+497,Noa Cohen,37,Female,Shapira,5795,High
+498,Hila Gabai,36,Female,Neve Tzedek,8044,Low
+499,Noam Peretz,28,Male,Ajami,5054,High
+500,Leah Ohayon,28,Female,Neve Tzedek,12432,Low
+501,Avraham Dahan,38,Male,Ajami,4729,High
+502,Dana Avraham,28,Female,Neve Tzedek,8738,Low
+503,Adam David,39,Male,Ajami,4660,High
+504,Sarah Goldberg,29,Female,Ajami,5912,High
+505,Yael Friedman,21,Female,Shapira,5116,High
+506,Noam Weiss,26,Male,Ajami,5859,Low
+507,Rotem Segal,28,Female,Neve Tzedek,8930,Low
+508,Neta Dahan,32,Female,Neve Tzedek,12748,Moderate
+509,Maya Mizrahi,38,Female,Neve Tzedek,9643,Low
+510,Michal Mizrahi,26,Female,Shapira,5308,High
+511,Ido Avraham,33,Male,Ajami,4098,Low
+512,Ido David,22,Male,Shapira,5714,High
+513,David Levi,35,Male,Neve Tzedek,8271,Low
+514,Daniel Biton,32,Male,Shapira,5951,Low
+515,Matan Biton,23,Male,Shapira,5054,Low
+516,Avraham Avraham,42,Male,Ajami,4773,High
+517,Shani Goldberg,29,Female,Shapira,4627,High
+518,Esther Haddad,21,Female,Ajami,4474,Low
+519,Hila Cohen,26,Female,Ajami,4932,High
+520,Hila Segal,44,Female,Ajami,4603,High
+521,Omer Avraham,35,Male,Shapira,4368,High
+522,Sarah Segal,38,Female,Ajami,5241,Low
+523,Noa Shapiro,29,Female,Neve Tzedek,9127,Moderate
+524,Yosef Levi,24,Male,Shapira,4296,Low
+525,Ido Shapiro,38,Male,Ajami,4633,High
+526,Michal Mizrahi,37,Female,Shapira,5931,Low
+527,Itzhak Levi,23,Male,Ajami,5838,Low
+528,Sarah Dahan,30,Female,Neve Tzedek,11801,Low
+529,Eitan Bar,21,Male,Ajami,5126,High
+530,Dana Haddad,37,Female,Ajami,4825,High
+531,Michal Bar,33,Female,Shapira,4565,High
+532,Itzhak Biton,36,Male,Ajami,5935,High
+533,Rotem Gabai,36,Female,Ajami,5618,High
+534,Moshe Bar,23,Male,Shapira,5622,High
+535,David Azoulay,21,Male,Shapira,4847,High
+536,Rotem David,22,Female,Shapira,4123,Low
+537,Neta Mizrahi,23,Female,Ajami,5326,High
+538,Leah Weiss,49,Female,Ajami,5538,High
+539,Matan Segal,47,Male,Neve Tzedek,9598,Low
+540,Adi Bar,25,Female,Neve Tzedek,9592,Moderate
+541,Shira Haddad,43,Female,Neve Tzedek,12140,Low
+542,Uri Cohen,27,Male,Ajami,4336,Low
+543,Talia Cohen,25,Female,Neve Tzedek,12191,Low
+544,Maya David,29,Female,Ajami,5454,High
+545,Eitan Avraham,20,Male,Ajami,4744,Low
+546,Esther Avraham,30,Female,Ajami,4762,High
+547,Itzhak Shapiro,23,Male,Shapira,5473,High
+548,Adam Gabai,30,Male,Ajami,5087,High
+549,Itzhak Dahan,37,Male,Shapira,5386,Low
+550,Sarah Levi,25,Female,Neve Tzedek,9674,Low
+551,Omer Bar,28,Male,Neve Tzedek,10866,Low
+552,Maya Peretz,30,Female,Neve Tzedek,9538,Low
+553,Omer Levi,28,Male,Ajami,4292,Low
+554,Gal Weiss,32,Male,Neve Tzedek,11432,Low
+555,Noam Friedman,42,Male,Neve Tzedek,8453,Low
+556,Michal Levi,47,Female,Shapira,4318,Low
+557,David Peretz,30,Male,Neve Tzedek,12189,Low
+558,Roni Cohen,27,Female,Shapira,5905,High
+559,Leah Shapiro,28,Female,Ajami,4878,High
+560,Noa Azoulay,32,Female,Ajami,4701,High
+561,Matan Gabai,38,Male,Ajami,4272,Low
+562,Avigail Peretz,26,Female,Shapira,5583,High
+563,Noam Weiss,30,Male,Neve Tzedek,11430,Low
+564,Daniel Peretz,27,Male,Neve Tzedek,9377,Low
+565,Yael Avraham,23,Female,Shapira,5919,Low
+566,Moshe Shapiro,24,Male,Ajami,5537,Low
+567,Avigail Gabai,43,Female,Shapira,4474,High
+568,Roni Rubin,23,Female,Shapira,4292,Low
+569,Lior David,34,Male,Shapira,5827,Low
+570,Lior Katz,29,Male,Shapira,5986,High
+571,Yael Dahan,23,Female,Ajami,5176,Low
+572,Ben Cohen,26,Male,Ajami,4481,High
+573,Hila Dahan,26,Female,Neve Tzedek,8616,Low
+574,Esther Segal,25,Female,Shapira,5136,High
+575,Ariel Biton,27,Male,Shapira,4288,High
+576,Ariel Shapiro,50,Male,Ajami,4417,High
+577,Yael Levi,28,Female,Neve Tzedek,12861,Low
+578,Roni Rubin,26,Female,Ajami,5198,High
+579,Sarah Shapiro,34,Female,Ajami,5511,High
+580,Adi Gabai,35,Female,Ajami,5662,High
+581,Adam Rubin,27,Male,Ajami,4475,High
+582,Shira Avraham,27,Female,Neve Tzedek,8541,Moderate
+583,Noam Dahan,26,Male,Neve Tzedek,9269,Low
+584,Lior Peretz,46,Male,Shapira,4821,High
+585,Noam Levi,24,Male,Ajami,5975,High
+586,Yael Bar,39,Female,Ajami,4588,High
+587,Noam Friedman,28,Male,Neve Tzedek,12448,Low
+588,Yonatan Ohayon,32,Male,Shapira,4916,High
+589,Neta Friedman,20,Female,Ajami,5744,High
+590,Ben Goldberg,26,Male,Neve Tzedek,10274,Low
+591,Avigail Ohayon,30,Female,Neve Tzedek,12457,Low
+592,Uri Mizrahi,32,Male,Shapira,5441,High
+593,Lior Bar,21,Male,Ajami,5550,High
+594,Ariel Ohayon,47,Male,Neve Tzedek,8955,Low
+595,Noam Levi,23,Male,Shapira,4796,Low
+596,Talia Avraham,29,Female,Ajami,5849,Low
+597,Dana Azoulay,23,Female,Ajami,5327,High
+598,Ido David,34,Male,Shapira,4467,High
+599,Ariel Katz,38,Male,Neve Tzedek,8393,Moderate
+600,Hila Mizrahi,24,Female,Ajami,5510,High
+601,Ariel Gabai,39,Male,Neve Tzedek,11738,Low
+602,Michal Ohayon,21,Female,Ajami,5506,High
+603,Adam Rubin,31,Male,Shapira,4266,High
+604,Hila Avraham,26,Female,Ajami,4906,High
+605,Dana Katz,30,Female,Shapira,4174,Low
+606,Omer Gabai,28,Male,Neve Tzedek,12248,Low
+607,Moshe Azoulay,27,Male,Neve Tzedek,8951,Low
+608,Yosef Azoulay,20,Male,Ajami,4424,Low
+609,Daniel Haddad,37,Male,Ajami,5796,High
+610,Neta Biton,23,Female,Shapira,5424,High
+611,Ido David,40,Male,Shapira,4350,High
+612,Yonatan Segal,26,Male,Neve Tzedek,11264,Low
+613,Esther Bar,35,Female,Ajami,5230,High
+614,David Katz,29,Male,Neve Tzedek,11015,Moderate
+615,Hadar Haddad,28,Female,Neve Tzedek,8882,Low
+616,Roni Gabai,30,Female,Neve Tzedek,11015,Moderate
+617,Eli Ohayon,42,Male,Neve Tzedek,9244,Moderate
+618,Tamar Mizrahi,37,Female,Neve Tzedek,8411,Low
+619,Yonatan Gabai,25,Male,Neve Tzedek,9680,Moderate
+620,Itzhak Mizrahi,32,Male,Ajami,5059,High
+621,Michal David,46,Female,Ajami,5294,Low
+622,Dana Biton,34,Female,Shapira,5006,High
+623,Neta Cohen,31,Female,Neve Tzedek,8596,Low
+624,Leah Segal,26,Female,Shapira,5086,High
+625,Itzhak Rubin,33,Male,Shapira,5803,High
+626,Roni Segal,21,Female,Shapira,5564,High
+627,Ariel Dahan,30,Male,Ajami,5333,High
+628,Ariel Ohayon,25,Male,Neve Tzedek,11935,Low
+629,Noa Bar,22,Female,Shapira,5991,Low
+630,Maya Levi,24,Female,Ajami,4483,High
+631,Roni Bar,33,Female,Neve Tzedek,10551,Low
+632,Daniel Levi,25,Male,Shapira,4642,High
+633,Daniel Avraham,43,Male,Ajami,5543,High
+634,Hadar Azoulay,33,Female,Shapira,5020,High
+635,Ben Segal,28,Male,Ajami,4670,High
+636,Rotem Gabai,37,Female,Ajami,4569,Low
+637,Adi Avraham,36,Female,Ajami,4497,High
+638,Dana Bar,29,Female,Neve Tzedek,9488,Low
+639,Rotem Bar,26,Female,Neve Tzedek,9745,Low
+640,Liat Segal,38,Female,Shapira,5287,Low
+641,Noa Haddad,27,Female,Shapira,5598,High
+642,Neta Mizrahi,26,Female,Ajami,4889,High
+643,Sarah Peretz,21,Female,Shapira,4069,High
+644,Leah David,28,Female,Ajami,5594,Low
+645,Avraham Goldberg,25,Male,Ajami,5638,High
+646,Roni Bar,29,Female,Neve Tzedek,9622,Low
+647,Michal Levi,26,Female,Ajami,4067,High
+648,Itzhak Bar,28,Male,Shapira,5814,High
+649,Tomer Friedman,33,Male,Neve Tzedek,12077,Low
+650,Moshe Peretz,35,Male,Ajami,5501,High
+651,Roni Ohayon,29,Female,Shapira,4490,Low
+652,Shani Rubin,34,Female,Ajami,4838,High
+653,Eitan Gabai,23,Male,Ajami,5332,High
+654,Talia Mizrahi,21,Female,Ajami,4793,Low
+655,Uri Gabai,23,Male,Ajami,5644,High
+656,Avigail Avraham,39,Female,Neve Tzedek,8438,Low
+657,Eitan Levi,39,Male,Neve Tzedek,9236,Moderate
+658,Avraham Gabai,38,Male,Neve Tzedek,11956,Low
+659,Shira Biton,26,Female,Ajami,5229,High
+660,Roni Dahan,33,Female,Neve Tzedek,9648,Low
+661,Tamar Katz,20,Female,Ajami,4473,High
+662,Ido Levi,21,Male,Ajami,5632,Low
+663,David Friedman,24,Male,Shapira,4167,High
+664,David Segal,35,Male,Ajami,5658,High
+665,Itzhak Goldberg,22,Male,Shapira,4120,Low
+666,Yael Ohayon,21,Female,Ajami,4452,High
+667,Rotem Dahan,31,Female,Ajami,4950,High
+668,Noam Friedman,45,Male,Ajami,4483,Low
+669,Hadar Friedman,25,Female,Shapira,5179,High
+670,Noam Avraham,24,Male,Shapira,5296,High
+671,Hila Rubin,25,Female,Shapira,4712,High
+672,Avraham David,49,Male,Shapira,5033,High
+673,Yosef Dahan,27,Male,Ajami,5204,Low
+674,Moshe Levi,32,Male,Neve Tzedek,10710,Low
+675,Avigail David,36,Female,Shapira,4204,High
+676,Adi Friedman,21,Female,Shapira,5688,High
+677,Adi Ohayon,41,Female,Neve Tzedek,9710,Moderate
+678,Yael Rubin,32,Female,Ajami,4990,Low
+679,Neta Mizrahi,27,Female,Shapira,4154,Low
+680,Ido Haddad,48,Male,Ajami,4605,High
+681,Avraham Friedman,27,Male,Ajami,4431,High
+682,Ben Weiss,37,Male,Neve Tzedek,12890,Moderate
+683,Lior Mizrahi,39,Male,Ajami,5473,High
+684,Maya Azoulay,45,Female,Ajami,5527,High
+685,Maya Levi,22,Female,Ajami,5737,High
+686,Matan Segal,32,Male,Shapira,4840,High
+687,Ariel Friedman,22,Male,Shapira,4844,High
+688,Dana Segal,36,Female,Neve Tzedek,9234,Moderate
+689,Dana Bar,27,Female,Neve Tzedek,8609,Moderate
+690,Gal Biton,39,Male,Ajami,5222,High
+691,Yonatan Segal,24,Male,Ajami,4196,High
+692,Leah Bar,33,Female,Shapira,5250,High
+693,Roni Weiss,20,Female,Ajami,5329,High
+694,Sarah Avraham,25,Female,Ajami,4320,High
+695,Shani Haddad,37,Female,Shapira,4612,High
+696,Esther Cohen,39,Female,Shapira,5325,High
+697,Liat Weiss,31,Female,Neve Tzedek,9177,Low
+698,Noam Ohayon,42,Male,Shapira,4525,Low
+699,Eli Peretz,24,Male,Shapira,4615,High
+700,Ben Bar,23,Male,Ajami,5258,High
+701,Neta Avraham,39,Female,Shapira,5546,High
+702,Eli Peretz,33,Male,Neve Tzedek,9388,Moderate
+703,Shira Shapiro,24,Female,Ajami,5622,High
+704,Avraham Bar,26,Male,Neve Tzedek,12193,Moderate
+705,Shira Shapiro,25,Female,Ajami,5489,High
+706,Leah Dahan,20,Female,Ajami,4155,High
+707,Lior Mizrahi,28,Male,Shapira,5074,High
+708,Hila Haddad,21,Female,Ajami,5673,High
+709,Adi Levi,34,Female,Neve Tzedek,10005,Low
+710,David Weiss,26,Male,Neve Tzedek,9092,Low
+711,Leah Bar,25,Female,Neve Tzedek,9961,Low
+712,Neta Dahan,27,Female,Ajami,4071,High
+713,Esther Segal,38,Female,Shapira,4822,Low
+714,Yonatan Levi,29,Male,Neve Tzedek,10897,Moderate
+715,Sarah Cohen,23,Female,Ajami,4066,Low
+716,Eitan Mizrahi,26,Male,Shapira,5295,High
+717,Shani Mizrahi,36,Female,Shapira,5524,High
+718,Hadar Shapiro,47,Female,Shapira,5107,Low
+719,Avigail Mizrahi,25,Female,Ajami,4973,Low
+720,Michal Haddad,40,Female,Neve Tzedek,9104,Low
+721,Tomer Cohen,34,Male,Shapira,4090,Low
+722,Maya Dahan,25,Female,Neve Tzedek,8378,Low
+723,Matan Shapiro,29,Male,Ajami,5869,Low
+724,Rotem Haddad,31,Female,Ajami,4981,High
+725,Talia Biton,20,Female,Shapira,5827,High
+726,Noa Shapiro,28,Female,Ajami,5417,High
+727,Lior Avraham,23,Male,Shapira,4603,High
+728,Hadar Shapiro,33,Female,Neve Tzedek,8526,Low
+729,Adam Biton,39,Male,Shapira,5237,Low
+730,Shira Segal,30,Female,Neve Tzedek,8136,Low
+731,Avraham David,41,Male,Neve Tzedek,9828,Low
+732,Hila Bar,27,Female,Neve Tzedek,10312,Low
+733,Yosef Mizrahi,29,Male,Neve Tzedek,12450,Moderate
+734,Roni Dahan,22,Female,Shapira,4870,High
+735,David Shapiro,21,Male,Ajami,4234,High
+736,Ariel Avraham,33,Male,Ajami,4164,High
+737,Roni Friedman,26,Female,Shapira,5626,High
+738,Shani Rubin,24,Female,Shapira,5877,High
+739,Gal Friedman,27,Male,Neve Tzedek,11940,Low
+740,Avraham Ohayon,32,Male,Shapira,4408,High
+741,Tomer Biton,44,Male,Shapira,5010,High
+742,Hila Segal,31,Female,Neve Tzedek,10588,Low
+743,Noa Mizrahi,26,Female,Neve Tzedek,9193,Moderate
+744,Shani Peretz,28,Female,Neve Tzedek,9251,Moderate
+745,Noam Friedman,33,Male,Neve Tzedek,9605,Low
+746,Avraham Cohen,37,Male,Shapira,5332,High
+747,Tomer Rubin,40,Male,Shapira,5548,Low
+748,Avigail Weiss,22,Female,Ajami,5207,High
+749,David Dahan,22,Male,Ajami,5976,Low
+750,Avigail Shapiro,44,Female,Shapira,5455,High
+751,Liat David,43,Female,Neve Tzedek,9832,Low
+752,Yael Bar,32,Female,Ajami,5080,High
+753,Liat Goldberg,24,Female,Ajami,4662,Low
+754,Hadar Katz,21,Female,Shapira,4235,Low
+755,Yosef Segal,20,Male,Shapira,4012,High
+756,Avigail Levi,21,Female,Ajami,4078,Low
+757,Yael Avraham,29,Female,Shapira,5311,Low
+758,Yael Mizrahi,28,Female,Shapira,4101,Low
+759,Shani Weiss,39,Female,Ajami,4073,High
+760,Lior Biton,26,Male,Neve Tzedek,8972,Low
+761,Adam Shapiro,48,Male,Neve Tzedek,11446,Low
+762,Moshe Friedman,21,Male,Ajami,5372,High
+763,Noam Rubin,31,Male,Ajami,5895,Low
+764,Eli Friedman,54,Male,Neve Tzedek,12682,Moderate
+765,Moshe Segal,26,Male,Ajami,5903,High
+766,Shani Azoulay,25,Female,Shapira,4369,Low
+767,Yonatan Gabai,24,Male,Ajami,5414,High
+768,Yosef Segal,24,Male,Ajami,5576,High
+769,Daniel Friedman,26,Male,Shapira,5719,Low
+770,Tamar Cohen,24,Female,Ajami,5812,High
+771,Yonatan Cohen,20,Male,Ajami,4274,High
+772,Shani Cohen,36,Female,Ajami,4712,Low
+773,Dana Goldberg,31,Female,Neve Tzedek,10291,Moderate
+774,Lior Levi,33,Male,Ajami,4821,High
+775,Leah Friedman,21,Female,Ajami,4799,High
+776,Moshe Dahan,27,Male,Shapira,5853,Low
+777,Daniel Segal,29,Male,Shapira,4596,Low
+778,Uri Azoulay,45,Male,Ajami,4064,High
+779,Gal David,33,Male,Ajami,4706,High
+780,Shani Weiss,27,Female,Neve Tzedek,9344,Low
+781,Eitan Friedman,47,Male,Ajami,4129,High
+782,Esther Gabai,27,Female,Ajami,5545,High
+783,Adi David,27,Female,Shapira,5357,High
+784,Moshe Rubin,38,Male,Neve Tzedek,12519,Low
+785,Shani Biton,24,Female,Ajami,4732,Low
+786,Itzhak Avraham,20,Male,Shapira,4772,High
+787,Noa Bar,26,Female,Shapira,5524,High
+788,Matan David,21,Male,Shapira,4646,High
+789,Esther Cohen,44,Female,Neve Tzedek,12634,Low
+790,Ido Peretz,44,Male,Ajami,5306,Low
+791,Yonatan Segal,27,Male,Neve Tzedek,8889,Moderate
+792,Neta Rubin,29,Female,Ajami,5185,High
+793,Hila Ohayon,32,Female,Neve Tzedek,11050,Low
+794,Adam Cohen,27,Male,Neve Tzedek,11438,Low
+795,Itzhak David,26,Male,Neve Tzedek,9716,Moderate
+796,Avraham Mizrahi,45,Male,Neve Tzedek,9314,Low
+797,Moshe Segal,24,Male,Shapira,4567,High
+798,Omer Cohen,43,Male,Shapira,4027,High
+799,Neta Friedman,27,Female,Neve Tzedek,10895,Moderate
+800,Itzhak Rubin,22,Male,Ajami,4558,High
+801,Daniel David,34,Male,Ajami,5992,High
+802,Ariel Segal,37,Male,Ajami,4859,Low
+803,Moshe Segal,46,Male,Neve Tzedek,12332,Moderate
+804,Shani Bar,24,Female,Shapira,5879,High
+805,Eli Goldberg,25,Male,Shapira,4140,High
+806,Roni Dahan,28,Female,Shapira,5574,Low
+807,Tomer Dahan,30,Male,Shapira,5664,Low
+808,Noa David,29,Female,Ajami,4936,High
+809,Daniel Gabai,20,Male,Ajami,4592,High
+810,Omer Goldberg,21,Male,Shapira,4930,Low
+811,Michal Gabai,35,Female,Neve Tzedek,10905,Moderate
+812,Omer Goldberg,36,Male,Shapira,4998,High
+813,Gal Goldberg,41,Male,Neve Tzedek,12430,Low
+814,Sarah David,30,Female,Neve Tzedek,9880,Low
+815,Liat Mizrahi,26,Female,Neve Tzedek,10158,Low
+816,Ido Cohen,22,Male,Ajami,5352,Low
+817,Noa Dahan,38,Female,Shapira,4441,Low
+818,Ariel Cohen,24,Male,Shapira,5329,High
+819,David David,29,Male,Shapira,5906,High
+820,Adam Ohayon,40,Male,Ajami,4404,High
+821,Daniel Azoulay,29,Male,Shapira,5837,High
+822,Shani Rubin,31,Female,Neve Tzedek,10240,Low
+823,Uri Friedman,30,Male,Neve Tzedek,8758,Low
+824,Adam Levi,22,Male,Ajami,4237,High
+825,Itzhak Mizrahi,25,Male,Neve Tzedek,12871,Moderate
+826,Shira Levi,36,Female,Neve Tzedek,9320,Low
+827,Adi Segal,21,Female,Shapira,5884,Low
+828,Dana Cohen,30,Female,Shapira,4081,High
+829,Lior Biton,43,Male,Neve Tzedek,11647,Low
+830,Hadar Azoulay,27,Female,Shapira,5121,High
+831,Gal Katz,20,Male,Ajami,5583,High
+832,Noam Weiss,21,Male,Ajami,5040,Low
+833,Talia Weiss,30,Female,Ajami,5505,High
+834,Adam Azoulay,22,Male,Shapira,4935,High
+835,Uri Cohen,29,Male,Shapira,4372,Low
+836,Avigail Gabai,37,Female,Ajami,5010,High
+837,Moshe Azoulay,29,Male,Neve Tzedek,11938,Moderate
+838,Yonatan Haddad,26,Male,Neve Tzedek,9682,Low
+839,Tamar Mizrahi,21,Female,Ajami,4831,High
+840,Hadar Goldberg,39,Female,Neve Tzedek,9107,Low
+841,Michal Rubin,30,Female,Neve Tzedek,12191,Low
+842,Avraham Gabai,20,Male,Shapira,4580,High
+843,Noa Cohen,46,Female,Neve Tzedek,8256,Low
+844,David Avraham,28,Male,Neve Tzedek,9838,Low
+845,Tamar Bar,29,Female,Shapira,4451,High
+846,Yael Weiss,44,Female,Shapira,5636,Low
+847,Shani Katz,25,Female,Ajami,4424,Low
+848,Liat Haddad,36,Female,Neve Tzedek,9438,Low
+849,Shani Ohayon,25,Female,Neve Tzedek,10626,Low
+850,Hila Katz,31,Female,Neve Tzedek,8265,Low
+851,Hila Cohen,37,Female,Shapira,5954,High
+852,Liat Mizrahi,33,Female,Neve Tzedek,10783,Low
+853,Neta Mizrahi,32,Female,Shapira,5623,Low
+854,Eitan Segal,32,Male,Ajami,4005,High
+855,Maya Cohen,42,Female,Ajami,5428,Low
+856,Hila David,36,Female,Neve Tzedek,9267,Moderate
+857,Esther Shapiro,32,Female,Neve Tzedek,8403,Low
+858,Sarah Avraham,28,Female,Shapira,5837,High
+859,Tomer Dahan,25,Male,Neve Tzedek,8432,Moderate
+860,Ido Biton,32,Male,Neve Tzedek,12583,Low
+861,Matan Haddad,37,Male,Ajami,4536,High
+862,Omer Mizrahi,46,Male,Neve Tzedek,12932,Low
+863,Tamar Levi,38,Female,Ajami,5442,High
+864,Hadar Cohen,47,Female,Shapira,4499,High
+865,Ariel Ohayon,22,Male,Ajami,4323,High
+866,Uri Rubin,20,Male,Shapira,5635,High
+867,Yosef Segal,22,Male,Ajami,5325,High
+868,Yael Friedman,21,Female,Ajami,4872,Low
+869,Hila Biton,34,Female,Shapira,4213,Low
+870,Yonatan Katz,20,Male,Ajami,5710,High
+871,Eitan Cohen,28,Male,Neve Tzedek,11693,Moderate
+872,Itzhak David,27,Male,Shapira,4331,High
+873,Noam Katz,33,Male,Neve Tzedek,9805,Moderate
+874,Avraham Gabai,38,Male,Shapira,5614,Low
+875,Avraham Goldberg,21,Male,Shapira,5249,High
+876,Maya Gabai,41,Female,Neve Tzedek,8738,Low
+877,Roni Mizrahi,33,Female,Shapira,5300,High
+878,Roni Katz,21,Female,Ajami,5994,High
+879,Leah David,26,Female,Neve Tzedek,10453,Low
+880,Avraham Gabai,55,Male,Neve Tzedek,9183,Low
+881,Tomer Haddad,28,Male,Shapira,4254,Low
+882,Shani Weiss,55,Female,Neve Tzedek,8787,Low
+883,Tomer Biton,31,Male,Shapira,5165,High
+884,Moshe Weiss,38,Male,Neve Tzedek,12120,Moderate
+885,Dana Katz,30,Female,Shapira,4136,High
+886,Michal Haddad,41,Female,Neve Tzedek,10181,Moderate
+887,Neta Levi,21,Female,Shapira,5411,Low
+888,Adi Haddad,31,Female,Neve Tzedek,11958,Moderate
+889,David Rubin,29,Male,Neve Tzedek,10927,Low
+890,Moshe Azoulay,32,Male,Ajami,5980,High
+891,Roni Shapiro,21,Female,Shapira,5950,High
+892,Talia Gabai,32,Female,Ajami,4720,High
+893,Talia Goldberg,32,Female,Neve Tzedek,10319,Low
+894,Dana Haddad,20,Female,Ajami,4860,High
+895,Omer Ohayon,26,Male,Shapira,5458,High
+896,Avigail Katz,28,Female,Ajami,4941,Low
+897,Ido Dahan,55,Male,Neve Tzedek,9781,Moderate
+898,Shira Goldberg,23,Female,Ajami,4607,Low
+899,Talia Haddad,22,Female,Ajami,5333,Low
+900,Noam Haddad,24,Male,Ajami,4714,High
+901,Itzhak Levi,40,Male,Ajami,4318,Low
+902,Leah Peretz,43,Female,Shapira,5064,High
+903,Adam Katz,31,Male,Neve Tzedek,11496,Low
+904,Tomer Katz,36,Male,Shapira,4417,Low
+905,Noa Segal,26,Female,Shapira,5450,Low
+906,Neta Mizrahi,43,Female,Shapira,4275,Low
+907,Ido Weiss,32,Male,Ajami,4550,High
+908,Ben Azoulay,25,Male,Neve Tzedek,12549,Moderate
+909,Avigail Bar,34,Female,Shapira,4617,Low
+910,Shira Segal,29,Female,Shapira,4221,High
+911,Michal Haddad,30,Female,Ajami,4989,High
+912,Yonatan Weiss,26,Male,Neve Tzedek,12426,Low
+913,Matan Shapiro,24,Male,Shapira,5024,Low
+914,Adam Mizrahi,23,Male,Shapira,5721,High
+915,Eli Ohayon,20,Male,Shapira,5780,High
+916,Gal Levi,45,Male,Shapira,4442,Low
+917,Adam Katz,21,Male,Ajami,5115,High
+918,Ben Gabai,26,Male,Ajami,4159,High
+919,Eitan David,31,Male,Shapira,5171,Low
+920,Adam Peretz,31,Male,Ajami,4612,High
+921,Ido Levi,32,Male,Ajami,5860,High
+922,Leah Goldberg,31,Female,Shapira,5135,Low
+923,Lior Levi,24,Male,Shapira,5977,High
+924,Hadar Katz,34,Female,Ajami,4571,High
+925,Talia Gabai,33,Female,Shapira,5190,High
+926,Hila Weiss,45,Female,Neve Tzedek,10244,Low
+927,Hila Katz,30,Female,Neve Tzedek,11177,Low
+928,Shani Goldberg,43,Female,Neve Tzedek,11526,Moderate
+929,Gal Bar,27,Male,Neve Tzedek,9953,Low
+930,Eli Katz,29,Male,Neve Tzedek,12783,Low
+931,Maya Bar,23,Female,Shapira,5503,Low
+932,Yonatan Weiss,30,Male,Neve Tzedek,8151,Low
+933,Yael Peretz,27,Female,Shapira,4072,High
+934,Moshe Dahan,21,Male,Ajami,4518,High
+935,Eli Gabai,30,Male,Shapira,5470,High
+936,Gal Shapiro,27,Male,Ajami,4843,High
+937,Leah Peretz,30,Female,Neve Tzedek,8778,Moderate
+938,Yonatan Segal,32,Male,Shapira,5633,High
+939,Adi Gabai,38,Female,Shapira,5510,High
+940,Uri Avraham,28,Male,Neve Tzedek,9608,Low
+941,Leah Levi,21,Female,Ajami,5776,High
+942,Ben Segal,44,Male,Ajami,4939,High
+943,Avraham Biton,42,Male,Neve Tzedek,8032,Low
+944,Yonatan Shapiro,32,Male,Neve Tzedek,11194,Low
+945,Yosef Segal,29,Male,Neve Tzedek,11648,Low
+946,Moshe Haddad,23,Male,Shapira,5779,High
+947,Avigail Rubin,35,Female,Neve Tzedek,10128,Low
+948,Esther Friedman,22,Female,Ajami,5449,Low
+949,Tomer Katz,24,Male,Ajami,5647,Low
+950,Liat Rubin,25,Female,Ajami,4180,High
+951,Tamar Levi,27,Female,Neve Tzedek,11062,Low
+952,Neta Segal,45,Female,Ajami,5094,High
+953,Yosef Bar,23,Male,Shapira,4200,High
+954,Sarah David,34,Female,Ajami,4686,High
+955,Neta Levi,30,Female,Neve Tzedek,11538,Low
+956,Noa David,36,Female,Shapira,5805,High
+957,Noam Goldberg,21,Male,Shapira,4084,High
+958,Esther Rubin,28,Female,Neve Tzedek,12742,Low
+959,Yael Ohayon,20,Female,Shapira,5388,Low
+960,Shira Rubin,44,Female,Neve Tzedek,11038,Low
+961,Ben Avraham,26,Male,Ajami,5587,High
+962,Matan Haddad,28,Male,Ajami,4215,High
+963,Avigail Mizrahi,27,Female,Shapira,4009,Low
+964,Noam Dahan,27,Male,Ajami,5326,High
+965,Gal Avraham,33,Male,Neve Tzedek,10820,Low
+966,Omer Bar,37,Male,Neve Tzedek,10059,Low
+967,Dana Shapiro,20,Female,Shapira,4986,High
+968,Noa Gabai,26,Female,Shapira,5009,High
+969,Avraham Dahan,28,Male,Neve Tzedek,10504,Low
+970,Roni Haddad,26,Female,Neve Tzedek,10707,Low
+971,Itzhak Avraham,33,Male,Shapira,4537,High
+972,Tamar Azoulay,22,Female,Ajami,5376,High
+973,Shani Haddad,44,Female,Shapira,4565,Low
+974,Dana Rubin,26,Female,Ajami,4820,Low
+975,Neta Azoulay,24,Female,Ajami,5612,Low
+976,Adi Cohen,24,Female,Ajami,4770,High
+977,Michal Azoulay,22,Female,Ajami,5876,High
+978,Yosef Weiss,28,Male,Neve Tzedek,12354,Low
+979,Talia Bar,26,Female,Shapira,4909,High
+980,Talia Bar,28,Female,Shapira,5111,Low
+981,Talia Dahan,20,Female,Shapira,5278,High
+982,Esther Goldberg,27,Female,Neve Tzedek,10327,Low
+983,Adi Levi,50,Female,Neve Tzedek,12677,Moderate
+984,Shira Katz,30,Female,Neve Tzedek,12852,Moderate
+985,Leah Cohen,30,Female,Neve Tzedek,11199,Low
+986,Hadar Gabai,35,Female,Neve Tzedek,9557,Low
+987,Neta Goldberg,24,Female,Shapira,4371,High
+988,Noam David,27,Male,Ajami,4952,High
+989,Eli Friedman,21,Male,Ajami,4047,High
+990,Dana Levi,31,Female,Shapira,5008,High
+991,Gal Goldberg,27,Male,Shapira,5097,High
+992,Tamar Cohen,21,Female,Shapira,4140,High
+993,Hila Segal,20,Female,Shapira,4277,High
+994,Esther David,42,Female,Shapira,4349,High
+995,Itzhak Peretz,20,Male,Shapira,5936,Low
+996,Eli Biton,35,Male,Neve Tzedek,8159,Low
+997,Dana Friedman,22,Female,Shapira,5188,High
+998,Neta Gabai,25,Female,Ajami,5103,Low
+999,Lior Segal,20,Male,Shapira,4425,Low
+1000,Lior Mizrahi,30,Male,Ajami,5963,Low
